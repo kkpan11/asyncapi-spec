@@ -6,10 +6,11 @@ The latest draft specification can be found at [spec/asyncapi.md](./spec/asyncap
 
 **The human-readable markdown file is the source of truth for the specification.**
 
-- [Version 3.0.0](https://github.com/asyncapi/spec/blob/v3.0.0/spec/asyncapi.md) (latest) ([website](https://www.asyncapi.com/docs/reference/specification/latest))
+- [Version 3.1.0](https://github.com/asyncapi/spec/blob/v3.1.0/spec/asyncapi.md) (latest) ([website](https://www.asyncapi.com/docs/reference/specification/latest))
 <details>
   <summary>Click to see reference links to older versions of the specification.</summary>
 
+- [Version 3.0.0](https://github.com/asyncapi/spec/blob/v3.0.0/spec/asyncapi.md)
 - [Version 2.6.0](https://github.com/asyncapi/spec/blob/v2.6.0/spec/asyncapi.md)
 - [Version 2.5.0](https://github.com/asyncapi/spec/blob/v2.5.0/spec/asyncapi.md)
 - [Version 2.4.0](https://github.com/asyncapi/spec/blob/v2.4.0/spec/asyncapi.md)
@@ -42,38 +43,36 @@ Want to become a sponsor? Learn [what we do with sponsors' money](https://www.as
 
 ### Platinum
 
-<a href="https://ibm.com" target="_blank">
-  <img src="./assets/ibm.png" alt="IBM logo" height="70">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://solace.com" target="_blank">
-  <img src="./assets/solace.png" alt="Solace logo" height="70">
+<a href="https://www.gravitee.io" target="_blank">
+  <img src="./assets/Gravitee.png" alt="Gravitee" height="70">
 </a>
 
 ### Gold
-  
-<a href="https://postman.com" target="_blank">
-  <img src="./assets/postman.png" alt="Postman logo" height="90">
+
+<a href="https://solace.com/?utm_source=github&utm_medium=onlinereferral&utm_campaign=asyncapi_sponsorship" target="_blank">
+  <img src="./assets/solace.png" alt="Solace: powering event-driven architectures, integrations and AI" height="70">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;  
+<a href="https://ibm.com" target="_blank">
+  <img src="./assets/ibm.png" alt="IBM" height="70">
 </a>
 
 ### Silver
 
-<a href="https://bump.sh/asyncapi?utm_source=asyncapi&utm_medium=github_readme&utm_campaign=sponsor" target="_blank">
-  <img src="./assets/bump-sh-white-bg.png" alt="Bump.sh logo" height="70">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.svix.com/" target="_blank">
-  <img src="./assets/svix.png" alt="svix logo" height="70">
+  <img src="./assets/svix.png" alt="Svix" height="70">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.hivemq.com/" target="_blank">
-  <img src="./assets/hivemq-white-bg.png" alt="hivemq logo" height="70">
+
+<br/>
+
+<a href="https://www.aklivity.io/" target="_blank">
+  <img src="./assets/aklivity.png" alt="Aklivity" height="70">
 </a>
 
 ### Bronze
 
-<a href="https://redhat.com" target="_blank">
-  <img src="./assets/redhat.png" alt="RedHat logo" height="70">
+<a href="https://www.apideck.com/" target="_blank">
+  <img src="./assets/apideck.png" alt="APIDeck" height="30">
 </a>
 
 ## Contributors
